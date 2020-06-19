@@ -5,7 +5,32 @@
 <title>Black Goose Bistro Gallery</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {
+	
+ /* Add a black background color to the top navigation bar */  
+  .topnavbar{ 
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* style the links inside the navigation bar */
+  .topnavbar a{
+    float: left;
+    color: #F2F2F2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoraction: none;
+    font: 400 18px Lato, sans-serif;
+  }
+	
+body { 
+ <div class="topnavbar"> 
+    <a href="index.html" class="active">Home</a> 
+    <a href="recipes/salmon.html">Recipes</a> 
+    <a href="about.html">About</a>
+    <a href="gallery2.html">Gallery</a>
+    <a href="glossary.html">Glossary</a>
+  </div> 
+  
   background-color: #f7dbd8;
   margin: 0 10%;
   font-family: sans-serif;
