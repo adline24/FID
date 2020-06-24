@@ -1,0 +1,57 @@
+  
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Art Work Gallery</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+	
+  /* Add a black background color to the top navigation bar */  
+  .topnavbar{ 
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* style the links inside the navigation bar */
+  .topnavbar a{
+    float: left;
+    color: #F2F2F2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoraction: none;
+    font: 400 18px Lato, sans-serif;
+  }
+	
+body { 
+  background-color: #f7dbd8;
+  margin: 0 10%;
+  font-family: sans-serif;
+  }
+  </style>
+  </head> 
+  
+  <body> 
+  <ul> 
+  
+    <li><img src="Praying Hands.jpg" alt=
+             "image height="300" width="300"></li> 
+
+    <li><img src="Helping Hands.jpg" alt=
+             "image height="300" width="300"></li> 
+
+    <li><img src="Glasses Girl.jpg" alt=
+             "image height="300" width="300"></li> 
+
+    <li><img src="Girl Yawing.jpg" alt=
+             "image height="300" width="300"></li> 
+
+    <li><img src="Basebal Cap Girl.jpg" alt=
+             "image height="300" width="300"></li> 
+  
+    <li><img src="Hidden Girl.jpg" alt=
+             "image height="300" width="300"></li>  
+  </ul>             
+  
+  </body> 
+  </html> 
