@@ -18,11 +18,17 @@
     font: 400 18px Lato, sans-serif;
   }
   
-body {
+body { 
   background-color: #f7dbd8;
   margin: 0 10%;
   font-family: Perpetua;
   }
+body.index {	
+  background-image: url("background.jpg");
+  margin: 0 10%;
+  font-family: Perpetua;
+  }
+
 
 h1 {
   text-align: center;
