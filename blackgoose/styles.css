@@ -1,3 +1,4 @@
+<meta charset="utf-8"> 
 <style>
   
   /* Add a black background color to the top navigation bar */  
@@ -36,14 +37,3 @@ h2 {
   font-size: 1em;
 }
 </style>
-
-<body> 
-	<div class="topnavbar"> 
-    <a href="index.html" class="active">Home</a> 
-    <a href="menu.html">Menu</a>
-    <a href="recipespage.html">Recipes</a> 
-    <a href="about.html">About</a>
-    <a href="gallery2.html">Gallery</a>
-    <a href="glossary.html">Glossary</a>
-  </div> 
-</body> 
