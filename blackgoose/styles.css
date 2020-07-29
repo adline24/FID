@@ -16,31 +16,10 @@
   }
   
 body {
-  background-color: #f7dbd8;
+  background: #f7dbd8 url(blackgoose.png) no-repeat center 100px fixed;
   margin: 0 10%;
   font-family: sans-serif;
   } 
-
-div.image
-  {
-  width:500px;
-  height:250px;
-  background: "blackgoose.png";
-  background-repeat:no-repeat;
-  background-position:center;
-  }
-
-div.transparentbox
-  {
-  width:400px;
-  height:180px;
-  margin:30px 50px;
-  background-color:#ffffff;
-  border:1px solid;
-  border-color:#CD853F;
-  opacity:0.6;
-  filter:alpha(opacity=60);
-  }
 
 
 h1 {
