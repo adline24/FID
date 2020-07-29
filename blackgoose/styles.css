@@ -22,7 +22,7 @@ body {
   font-style: oblique; 
   }
 body.index {	
-  background-image: url("leaves.png");
+  background-image: url("rose.png");
   background-repeat: no-repeat; 
   background-size: cover; /* Resize the background image to cover the entire container */
   margin: 0 10%;
