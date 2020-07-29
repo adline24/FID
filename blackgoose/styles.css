@@ -16,7 +16,7 @@
   }
   
 body {
-  background: #f7dbd8 url(blackgoose.png) no-repeat center 100px fixed;
+  background: #f7dbd8 url(blackgoose.png) no-repeat center 100px transparent;
   margin: 0 10%;
   font-family: sans-serif;
   } 
