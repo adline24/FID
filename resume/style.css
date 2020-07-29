@@ -6,7 +6,7 @@
   
   /* style the links inside the navigation bar */
   .topnavbar a{
-    float: none;
+    float: left;
     color: #F2F2F2;
     text-align: center;
     padding: 14px 16px;
@@ -21,7 +21,7 @@ body {
   font-style: oblique; 
   }
 body.index {	
-  background-image: url("flowers.png"); 
+  background-image: url("flower.png"); 
   /* Create the parallax scrolling effect */ 
   background-attachment: fixed; 
   background-position: center; 
