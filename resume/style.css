@@ -8,7 +8,7 @@ html
   
   /* style the links inside the navigation bar */
   .topnavbar a{
-    float: left;
+    float: none;
     color: #F2F2F2;
     text-align: center;
     padding: 14px 16px;
