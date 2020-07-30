@@ -15,7 +15,7 @@
   }
   
   body.index {	
-  background-image: url("flower.png"); 
+  background-image: url("flowers.png"); 
   /* Create the parallax scrolling effect */ 
   background-attachment: fixed; 
   background-position: center; 
